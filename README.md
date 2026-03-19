@@ -24,6 +24,8 @@ Ich bin AI/ML Engineer in Braunschweig/Wolfsburg mit Fokus auf **Perception Syst
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
 
@@ -33,7 +35,7 @@ Ich bin AI/ML Engineer in Braunschweig/Wolfsburg mit Fokus auf **Perception Syst
 Lass uns über **AD-Tech, Robotik oder ML Engineering** sprechen.
 📧 **mr.ghulaamm@gmail.com** | 🔗 **[LinkedIn](https://linkedin.com/in/ghulammjtba)**
 
-## ⭐️**Fun Fact:** I survived the 42 Piscine – I code where others give up. 😉
+** ⭐️ Fun Fact:** I survived the 42 Piscine – I code where others give up. 😉
 
 ### ☕ Support
 [![PayPal](https://img.shields.io/badge/Support-PayPal-FFDD00?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/Ghulam1999)
