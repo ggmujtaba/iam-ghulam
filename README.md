@@ -2,31 +2,26 @@
   Hi there 👋, I'm <b>Ghulam Mujtaba</b>
 </h1>
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=iam-ghulam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=Entry-Level+Data+Scientist;Artificial+Intelligence+%7C+Machine+Learning;Turning+Data+into+Real+AI+Solutions;Always+Learning+More+🚀" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+/+ML+Engineer+@seame;Autonomous+Driving+&amp;+Perception;C+++%7C+Python+%7C+PyTorch;42+Wolfsburg+Piscine+Survivor+🚀" alt="Typing Animation"/>
   </a>
 </p>
 
-<!-- Socials right below typing animation -->
 <p align="center">
   <a href="https://linkedin.com/in/ghulammjtba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://tiktok.com/@iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://youtube.com/@iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://x.com/iam_ghulamm" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ---
 
-**Entry-Level Data Scientist (AI & ML) — Braunschweig, Germany**
+**AI/ML Engineer (Autonomous Driving) — Braunschweig/Wolfsburg, Germany**
 
-📩 Reach me at: **mr.ghulaamm@gmail.com**  
-Open to collaboration, internships, and real-world ML projects.
+📩 Reach me at: **mr.ghulaamm@gmail.com** Focusing on **Computer Vision**, **Deep Learning**, and **Embedded Systems** in the automotive sector.
 
-I'm a motivated Data Science learner with a background in IT & marketing.  
-I love building real ML projects.
+I bridge the gap between high-level ML research and low-level software engineering. Coming from **42 Wolfsburg**, I build AI that doesn't just work in a notebook, but on the vehicle.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
@@ -35,57 +30,54 @@ I love building real ML projects.
 ---
 
 ### 🚀 Currently Working On
-- Building my Data Science portfolio with supervised ML projects  
-- Model evaluation, classification & hyperparameter tuning  
-- First steps into cloud deployment with Docker & AWS
+- **Perception Stacks:** Developing SOTA Object Detection and Tracking models at **sea:me**.  
+- **AD Data Pipelines:** Optimizing sensor-fusion pipelines for real-world autonomous driving scenarios.  
+- **Model Deployment:** Quantizing and deploying Deep Learning models for real-time execution.
 
 ---
 
 ### 📚 Currently Learning
-- Deep Learning fundamentals  
-- Data visualization (Plotly, Tableau)  
-- Machine learning pipeline best practices
+- **SOTA Computer Vision:** Vision Transformers (ViT) and BEV (Bird's Eye View) architectures.  
+- **Embedded AI:** Optimizing for NVIDIA Jetson & TensorRT.  
+- **ROS 2:** Middleware for autonomous robotic systems.
 
 ---
 
 ### ✅ Available For
-- Junior Data Science roles  
-- Collaboration on ML projects  
+- ML Engineering Roles (Focus on AD/Robotics)  
+- Collaboration on Advanced Computer Vision Projects  
 
 ---
 
 ### 🤝 Open for Collaboration
-- Beginner-friendly machine learning projects  
-- Data dashboards & visualization  
-- Business analytics for small companies (SEO + social insights)
+- **Autonomous Systems:** Open-source AD stacks and simulation.  
+- **High-Performance C++:** ML algorithm implementations in C++.  
+- **Robotics:** Perception-driven control systems.
 
 ---
 
 ### 💬 You Can Ask Me About
-- Python for Data Science
-- Machine Learning
-- Artificial Intelligence
+- Python & C++ for ML
+- Deep Learning & Computer Vision
+- The "42 Wolfsburg" Engineering Mindset
 
 ---
 
 ### 📫 Contact
-📧 **mr.ghulaamm@gmail.com**  
-🔗 **linkedin.com/in/ghulammjtba**
+📧 **mr.ghulaamm@gmail.com** 🔗 **linkedin.com/in/ghulammjtba**
 
 ---
 
 # 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243.svg?logo=matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192.svg?logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?logo=nvidia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 
 ---
@@ -100,22 +92,10 @@ I love building real ML projects.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iam-ghulam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ### ⭐ Fun Fact  
-I build practical AI and ML projects that solve real problems.
+I survived the 42 Wolfsburg Piscine – I code where others give up. 🏊‍♂️💻
 
 ---
 
-### ☕ Buy Me a Coffee
-If you like my work or want to support my learning journey:
-
-[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/Ghulam1999)
+### ☕ Support My Work
+[![PayPal](https://img.shields.io/badge/Support-PayPal-FFDD00?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/Ghulam1999)
