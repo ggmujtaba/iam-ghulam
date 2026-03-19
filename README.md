@@ -75,16 +75,12 @@ I love building real ML projects.
 ---
 
 # 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243.svg?logo=matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192.svg?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)
+![C++](https://img.shields.io/badge/C+
++-00599C. svg?style=for-the-badge&logo=c82B%2B&logoColor=white)
+![Python] (https://img.shields.io/badge/ Python-3776AB. svg?style=for-the-badge&logo=python&logoColor=white)
+! [PyTorch] (https://img.shields.io/badge/ PyTorch-EE4C2C. svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/ Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+! [Linux](https://img.shields.io/badge/ Linux-FCC624. svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 
