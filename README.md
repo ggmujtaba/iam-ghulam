@@ -232,11 +232,3 @@ print(me)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00f7ff,100:0d1117&height=120&section=footer&text=Let%27s%20Build%20the%20Future%20Together!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00f7ff,100:0d1117&height=120&section=footer&text=Let%27s%20Build%20the%20Future%20Together!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
