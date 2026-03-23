@@ -18,9 +18,16 @@
 <br/><br/>
 
 <!-- ░░ BADGES ROW 1 — Social ░░ -->
-<a href="https://www.linkedin.com/in/ghulammjtba/">
+<a href="https://www.linkedin.com/in/piyushpathak03/">
   <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
+<a href="https://github.com/piyushpathak03">
+  <img src="https://img.shields.io/badge/GitHub-piyushpathak03-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=58a6ff"/>
+</a>
+<a href="https://github.com/piyushpathak03?tab=followers">
+  <img src="https://img.shields.io/github/followers/piyushpathak03?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=piyushpathak03&color=00FFD4&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
 
 <br/><br/>
 
