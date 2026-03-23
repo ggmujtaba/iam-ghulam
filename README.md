@@ -1,29 +1,35 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              GHULAM MUJTABA — GITHUB PROFILE                  -->
+<!--                  GHULAM MUJTABA — GITHUB PROFILE              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ░░ ANIMATED HEADER BANNER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=280&amp;section=header&amp;text=Ghulam%20Mujtaba&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=🚗%20AI%20%26%20ML%20Engineer%20%7C%20Autonomous%20Driving%20%7C%20Computer%20Vision%20%7C%20Sensor%20Fusion&amp;descAlignY=58&amp;descSize=17&amp;descColor=a0d8ff&amp;stroke=ffffff&amp;strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Piyush%20Pathak&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Generative%20AI%20Manager%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Architect&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
 
 <!-- ░░ NEON DIVIDER ░░ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- ░░ TYPING ANIMATION ░░ -->
 <a href="https://github.com/ggmujtaba">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;height=55&amp;lines=🚗+AI+%26+ML+Engineer+%7C+Autonomous+Driving;🧠+Computer+Vision+%7C+Sensor+Fusion+%7C+Deep+Learning;📡+Camera+%7C+LiDAR+%7C+Radar+%7C+3D+Perception;⚙️+Turning+Raw+Sensor+Data+into+Autonomous+Miles;🔬+From+Research+Paper+to+Production+AV+System;🚀+Building+the+Future+of+Mobility" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00FFD4&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+Generative+AI+Manager+%7C+9%2B+Years+Experience;🧠+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Fine-Tuning;🔬+ML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🚀+Deploying+AI+at+Fortune+500+Scale;💡+500%2B+Open-Source+AI+Projects+on+GitHub;%E2%9A%99%EF%B8%8F+From+Research+Paper+to+Production+System" alt="Typing SVG" />
 </a>
-
 
 <br/><br/>
 
-<!-- ░░ BADGES ROW 3 — Status ░░ -->
-<img src="https://img.shields.io/badge/🔭%20Currently-Building%20AV%20Perception%20Pipelines-00f7ff?style=flat-square&amp;labelColor=0D1117"/>
+<!-- ░░ BADGES ROW 1 — Social ░░ -->
+<a href="https://www.linkedin.com/in/ghulammjtba/">
+  <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<!-- ░░ BADGES ROW 2 — Status ░░ -->
+<img src="https://img.shields.io/badge/🔭%20Currently-Building%20Agentic%20AI%20Systems-00FFD4?style=flat-square&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🌱%20Exploring-BEVFusion%20%26%20Transformer%20Sensor%20Fusion-FF6B6B?style=flat-square&amp;labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🌱%20Exploring-Multimodal%20LLMs%20%26%20AI%20Agents-FF6B6B?style=flat-square&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-LiDAR%20%7C%20Camera%20%7C%20Radar%20Fusion-A78BFA?style=flat-square&amp;labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-GenAI%20%7C%20MLOps%20%7C%20LLMs-A78BFA?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
@@ -40,89 +46,45 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" alt="Autonomous Driving GIF"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 
 ```python
 #!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-class GhulamMujtaba:
+class PiyushPathak:
 
     def __init__(self):
-        self.name        = "Ghulam Mujtaba"
-        self.role        = "AI & ML Engineer — Autonomous Driving"
-        self.location    = "📍 Braunschweig, Germany 🇩🇪"
-        self.timezone    = "CET (UTC +1)"
+        self.name        = "Piyush Pathak"
+        self.role        = "Generative AI Manager"
+        self.experience  = "9+ Years"
+        self.location    = "📍 Gurgaon, India"
+        self.timezone    = "IST (UTC +5:30)"
 
     @property
     def expertise(self):
         return {
-            "Perception"   : ["3D Object Detection", "Lane Detection",
-                              "Occupancy Grid", "Depth Estimation"],
-            "Fusion"       : ["Camera · LiDAR · Radar", "Kalman / EKF",
-                              "BEVFusion", "PointPillars"],
-            "Deep Learning": ["PyTorch", "ONNX", "TensorRT", "CUDA"],
-            "MLOps"        : ["Docker", "AWS", "MLflow", "CI/CD"],
-            "Tools"        : ["ROS2", "C++", "Python", "CARLA Sim"],
+            "GenAI"    : ["LLMs", "RAG", "Agentic AI", "Fine-Tuning"],
+            "ML / DL"  : ["Deep Learning", "AutoML", "MLOps"],
+            "NLP"      : ["Transformers", "NER", "Summarization"],
+            "CV"       : ["Object Detection", "Segmentation"],
+            "Data"     : ["Analytics", "BI", "Predictive Models"],
         }
 
     @property
-    def background(self):
-        return ["IT", "Marketing", "Data Science"]
+    def stack(self):
+        return ["Python", "TensorFlow", "PyTorch", "LangChain",
+                "OpenAI", "HuggingFace", "FastAPI", "Docker",
+                "MySQL", "Tableau", "Power BI", "AWS"]
 
     def mission(self):
-        return "🚗 Teaching machines to see the road — autonomously."
+        return "⚡ Research → Production AI at Fortune 500 Scale"
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-me = GhulamMujtaba()
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+me = PiyushPathak()
 print(me.mission())
-# 🚗 Teaching machines to see the road — autonomously.
+# ⚡ Research → Production AI at Fortune 500 Scale
 ```
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════ -->
-<!--          AV PERCEPTION PIPELINE       -->
-<!-- ═══════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/l3vR4yk0X20KimqJ2/giphy.gif" width="30"> &nbsp;AV Perception Pipeline
-
-<div align="center">
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" alt="Neural Network GIF"/>
-
-```
-┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│   Camera    │    │    LiDAR    │    │    Radar    │
-│  RGB/Depth  │    │  3D Point   │    │  Velocity   │
-│   Frames    │    │   Clouds    │    │   + Range   │
-└──────┬──────┘    └──────┬──────┘    └──────┬──────┘
-       │                  │                  │
-       └──────────────────┼──────────────────┘
-                          │
-                 ┌────────▼────────┐
-                 │  Sensor Fusion  │
-                 │ BEVFusion / EKF │
-                 └────────┬────────┘
-                          │
-              ┌───────────┼───────────┐
-              │           │           │
-     ┌────────▼───┐  ┌────▼────┐  ┌──▼──────────┐
-     │  3D Object │  │  Lane   │  │  Occupancy  │
-     │ Detection  │  │ Detect. │  │    Grid     │
-     └────────┬───┘  └────┬────┘  └──┬──────────┘
-              │           │           │
-              └───────────▼───────────┘
-                          │
-                 ┌────────▼────────┐
-                 │  Path Planning  │
-                 │  & MPC Control  │
-                 └─────────────────┘
-```
-
-</div>
 
 <br clear="right"/>
 
@@ -132,64 +94,67 @@ print(me.mission())
 <!--          TECH STACK SHOWCASE          -->
 <!-- ═══════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> &nbsp;Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack & Tools
 
 <div align="center">
 
 <table>
 <tr><td align="center" colspan="2">
 
+<!-- ── ROW 1: Core AI / ML ── -->
 **🤖 &nbsp;Core AI · ML · Deep Learning**
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&amp;logo=pytorch&amp;logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&amp;logo=keras&amp;logoColor=D00000"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&amp;logo=opencv&amp;logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&amp;logo=numpy&amp;logoColor=013243"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&amp;logo=pandas&amp;logoColor=150458"/>
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21F"/>
-<img src="https://img.shields.io/badge/ONNX-0D1117?style=for-the-badge&amp;logo=onnx&amp;logoColor=005CED"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
 
 </td></tr>
 <tr><td align="center" colspan="2">
 
-**🚗 &nbsp;Autonomous Driving · Perception · Sensor Fusion**
+<!-- ── ROW 2: GenAI / LLM ── -->
+**🧬 &nbsp;Generative AI · LLMs · Vector DBs**
 
-<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&amp;logo=ros&amp;logoColor=22314E"/>
-<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00599C"/>
-<img src="https://img.shields.io/badge/TensorRT-0D1117?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900"/>
-<img src="https://img.shields.io/badge/Point%20Cloud%20Lib-0D1117?style=for-the-badge&amp;logoColor=00f7ff&amp;label=PCL"/>
-<img src="https://img.shields.io/badge/CARLA%20Simulator-0D1117?style=for-the-badge&amp;logoColor=FF6B35&amp;label=CARLA"/>
-<img src="https://img.shields.io/badge/Open3D-0D1117?style=for-the-badge&amp;logoColor=00f7ff&amp;label=Open3D"/>
-<img src="https://img.shields.io/badge/nuScenes-0D1117?style=for-the-badge&amp;logoColor=A78BFA&amp;label=nuScenes"/>
-
-</td></tr>
-<tr><td align="center" colspan="2">
-
-**📊 &nbsp;Data Science · Visualization · Simulation**
-
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&amp;logo=jupyter&amp;logoColor=F37626"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=11557C"/>
-<img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&amp;logo=plotly&amp;logoColor=636EFA"/>
-<img src="https://img.shields.io/badge/Weights_%26_Biases-0D1117?style=for-the-badge&amp;logo=weightsandbiases&amp;logoColor=FFBE00"/>
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=4C8CBF"/>
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=412991"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00FFD4"/>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21F"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=CC785C"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=for-the-badge&logo=llamaindex&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logo=pinecone&logoColor=00D4AA"/>
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
 
 </td></tr>
 <tr><td align="center" colspan="2">
 
-**☁️ &nbsp;Cloud · MLOps · DevOps**
+<!-- ── ROW 3: Data Science ── -->
+**📊 &nbsp;Data Science · Analytics · BI**
 
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&amp;logo=mlflow&amp;logoColor=0194E2"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&amp;logo=fastapi&amp;logoColor=009688"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=11557C"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=4C8CBF"/>
+<img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=636EFA"/>
+<img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+</td></tr>
+<tr><td align="center" colspan="2">
+
+<!-- ── ROW 4: Cloud + MLOps ── -->
+**☁️ &nbsp;Cloud · MLOps · Infrastructure**
+
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 
 </td></tr>
 </table>
@@ -210,44 +175,44 @@ print(me.mission())
 <tr>
 <td width="50%" valign="top">
 
-### 📡 AV Perception Pipeline
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ggmujtaba&repo=autonomous-perception&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=FFFFFF)](https://github.com/ggmujtaba)
+### 🗂️ 500+ AI · ML · DL · CV · NLP Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=500-AI-ML-DL-CV-NLP-projects-with-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/500-AI-ML-DL-CV-NLP-projects-with-code)
 
-> 🚗 End-to-end AV perception — 3D object detection, lane detection & occupancy grid from multi-sensor input.
+> 🌐 The most comprehensive open-source AI compendium — 500+ end-to-end implementations across every AI domain.
 
-`PyTorch` `LiDAR` `Camera` `ROS2` `CUDA`
+`Python` `TensorFlow` `PyTorch` `OpenCV` `HuggingFace`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔀 Sensor Fusion Framework
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ggmujtaba&repo=sensor-fusion-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=FFFFFF)](https://github.com/ggmujtaba)
+### ⚡ Automated Machine Learning
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=Automated-Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/Automated-Machine-Learning)
 
-> 🔬 Camera–LiDAR–Radar fusion using Extended Kalman Filter and BEVFusion architecture.
+> 🚀 End-to-end AutoML pipeline — data ingestion → model selection → tuning → deployment in one flow.
 
-`EKF` `BEVFusion` `PointPillars` `Python` `C++`
+`AutoKeras` `TPOT` `H2O.ai` `Scikit-learn` `Python`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Deep Learning for CV
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ggmujtaba&repo=deep-learning-cv&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=FFFFFF)](https://github.com/ggmujtaba)
+### 🚀 Model Deployment Frameworks
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=Model-Deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/Model-Deployment)
 
-> 👁️ Computer vision models for object detection, segmentation and depth estimation in AV scenarios.
+> 🔧 Production ML model serving — TF Serving, MLflow, Cortex, SageMaker, cloud-native microservices.
 
-`YOLOv8` `SegFormer` `Monodepth2` `OpenCV` `ONNX`
+`Docker` `FastAPI` `TensorRT` `SageMaker` `MLflow`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ MLOps for AV Systems
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ggmujtaba&repo=mlops-av&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=FFFFFF)](https://github.com/ggmujtaba)
+### 🧠 NLP & Pre-trained Models
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=pre_trained_model_NLP_Audio_CV&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV)
 
-> ⚙️ Production-grade ML pipeline — training, validation, deployment & monitoring for AV systems.
+> 💬 Full NLP pipeline collection — transformers, NER, summarization, embeddings, text classification.
 
-`Docker` `MLflow` `AWS` `GitHub Actions` `TensorRT`
+`Transformers` `HuggingFace` `BERT` `spaCy` `NLTK`
 
 </td>
 </tr>
@@ -265,20 +230,20 @@ print(me.mission())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ggmujtaba&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f7ff&amp;icon_color=00f7ff&amp;text_color=FFFFFF&amp;border_radius=10"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmujtaba&amp;layout=compact&amp;langs_count=10&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f7ff&amp;text_color=FFFFFF&amp;border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushpathak03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpathak03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&text_color=FFFFFF&border_radius=10"/>
 
 </div>
 
 <div align="center">
 <br/>
-<img width="70%" src="https://streak-stats.demolab.com/?user=ggmujtaba&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00f7ff&amp;fire=FF6B6B&amp;currStreakLabel=00f7ff&amp;sideLabels=00f7ff&amp;dates=AAAAAA&amp;border_radius=10"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=piyushpathak03&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD4&fire=FF6B6B&currStreakLabel=00FFD4&sideLabels=00FFD4&dates=AAAAAA&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ggmujtaba&amp;bg_color=0D1117&amp;color=00f7ff&amp;line=00f7ff&amp;point=FFFFFF&amp;area=true&amp;area_color=003D45&amp;hide_border=true&amp;radius=8" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyushpathak03&bg_color=0D1117&color=00FFD4&line=00FFD4&point=FFFFFF&area=true&area_color=003D33&hide_border=true&radius=8" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -290,7 +255,7 @@ print(me.mission())
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ggmujtaba&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=piyushpathak03&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -304,44 +269,14 @@ print(me.mission())
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ggmujtaba/ggmujtaba/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ggmujtaba/ggmujtaba/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ggmujtaba/ggmujtaba/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+> ⚡ *Enable the snake animation — see [SETUP.md](./SETUP.md) for the 2-minute GitHub Actions setup*
+
 </div>
-
-<details>
-<summary><b>🐍 &nbsp;Snake Animation Setup — click to expand</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your `ggmujtaba/ggmujtaba` profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ggmujtaba
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -349,27 +284,27 @@ jobs:
 <!--         IMPACT METRICS                -->
 <!-- ═══════════════════════════════════════ -->
 
-## 📈 &nbsp;Focus Areas & Highlights
+## 📈 &nbsp;Career Impact & Highlights
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/3D-Object%20Detection-00f7ff?style=for-the-badge&amp;labelColor=0D1117" /><br/>
-<sub>PointNet · VoxelNet · PointPillars</sub>
+<img src="https://img.shields.io/badge/9%2B-Years%20Experience-00FFD4?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Full-Stack AI Delivery</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Multi-Sensor%20Fusion-FF6B6B?style=for-the-badge&amp;labelColor=0D1117" /><br/>
-<sub>Camera · LiDAR · Radar</sub>
+<img src="https://img.shields.io/badge/500%2B-AI%20Projects-FF6B6B?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Open-Source Compendium</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/BEV-Transformer%20Fusion-A78BFA?style=for-the-badge&amp;labelColor=0D1117" /><br/>
-<sub>BEVFusion · BEVFormer</sub>
+<img src="https://img.shields.io/badge/Fortune-500%20Clients-A78BFA?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Global AI Solutions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Production-MLOps%20AV-FFD700?style=for-the-badge&amp;labelColor=0D1117" /><br/>
-<sub>Docker · AWS · MLflow</sub>
+<img src="https://img.shields.io/badge/10×-Faster%20AutoML-FFD700?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>ML Iteration Cycles</sub>
 </td>
 </tr>
 </table>
@@ -379,71 +314,59 @@ jobs:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════ -->
-<!--       CURRENT FOCUS & LEARNING        -->
+<!--       PROFESSIONAL EXPERIENCE         -->
 <!-- ═══════════════════════════════════════ -->
 
-## 🎯 &nbsp;Current Focus
-
-<div align="center">
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="220" alt="Tech GIF"/>
-
-```
-🔬  Research     →   BEVFusion: Multi-modal 3D Perception
-🛠️  Building     →   End-to-End AV Sensor Fusion Pipeline
-📚  Learning     →   Transformer-based Camera-LiDAR Fusion
-🧪  Testing      →   nuScenes & KITTI Benchmark Evaluations
-🌍  Contributing →   Open-source AV Perception Toolkits
-🚀  Deploying    →   TensorRT-optimised models on edge hardware
-```
-
-</div>
-
-<br clear="right"/>
+## 💼 &nbsp;Professional Experience
 
 <details>
-<summary><b>💼 &nbsp;Background & Experience — click to expand</b></summary>
+<summary><b>🏢 &nbsp;Generative AI Manager — Enterprise AI Leadership &nbsp;▸ click to expand</b></summary>
 <br/>
 
 ```yaml
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-role         : AI & ML Engineer — Autonomous Driving
-domain       : Computer Vision · Sensor Fusion · Deep Learning
-focus        : AV Perception, 3D Detection, MLOps
-location     : Braunschweig, Germany 🇩🇪
-background   : IT · Marketing · Data Science
+role         : Generative AI Manager
+experience   : 9+ Years
+domain       : AI · Data Science · GenAI · LLMs
+client_type  : Global Fortune 500 Organisations
+location     : Gurgaon, India
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**🔷 Key Areas**
+**🔷 Key Responsibilities**
 
-| Area | Details |
-|------|---------|
-| 👁️ **Computer Vision** | Object detection, segmentation, depth estimation |
-| 📡 **Sensor Fusion** | Camera–LiDAR–Radar with Kalman / EKF / BEVFusion |
-| 🧠 **Deep Learning** | PyTorch, ONNX, TensorRT, CUDA acceleration |
-| ⚙️ **MLOps** | Docker, AWS, MLflow, CI/CD pipelines |
-| 🚗 **AV Simulation** | CARLA, nuScenes, KITTI datasets |
+| Area | Deliverables |
+|------|-------------|
+| 🧠 **AI Architecture** | End-to-end GenAI solution design for Fortune 500 |
+| 🤖 **LLM Systems** | RAG pipelines, Agentic AI, fine-tuned LLMs |
+| ⚙️ **MLOps** | Scalable ML pipelines — ingestion → production serving |
+| 👥 **Leadership** | Data science team management & cross-functional AI delivery |
+| 📊 **Analytics** | Descriptive · Predictive · Prescriptive analytics at scale |
+| 💡 **Strategy** | Business → AI problem translation & roadmapping |
+
+**🛠️ Core Technologies**
+
+`Python` `TensorFlow` `PyTorch` `LangChain` `OpenAI` `Flask` `FastAPI` `MySQL` `Tableau` `Power BI` `AWS` `Docker` `Web Scraping`
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════ -->
-<!--       OPEN SOURCE FOCUS               -->
+<!--       OPEN SOURCE CONTRIBUTIONS       -->
 <!-- ═══════════════════════════════════════ -->
 
-## 🌐 &nbsp;Open Source Focus
+## 🌐 &nbsp;Open Source Footprint
 
 <div align="center">
 
-| 🏗️ Domain | 🎯 What I Build | 🌟 Goal |
+| 🏗️ Repository Domain | 🎯 What It Covers | 🌟 Significance |
 |:---|:---|:---|
-| **AV Perception** | 3D detection, lane & occupancy models | Real-world deployment-ready |
-| **Sensor Fusion** | Multi-modal fusion pipelines | Benchmark-quality accuracy |
-| **MLOps for AV** | Training, serving & monitoring stacks | Lab → Production bridge |
-| **CV Toolkits** | Detection, segmentation, depth | Reusable AV building blocks |
-| **Simulation** | CARLA & nuScenes experiments | Safe closed-loop validation |
+| **500+ AI/ML/DL/CV/NLP** | Every AI subdomain with code | Global reference resource |
+| **AutoML Frameworks** | Full pipeline automation | 10× faster model building |
+| **Model Deployment** | TF Serving · MLflow · Cortex · SageMaker | Lab → Production bridge |
+| **NLP Projects** | Transformers · NER · Summarization | Practical NLP library |
+| **AI Algorithms** | Classical → neural architectures | Algorithm implementation ref |
 
 </div>
 
@@ -457,13 +380,17 @@ background   : IT · Marketing · Data Science
 
 <div align="center">
 
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;quote=The%20best%20autonomous%20systems%20don't%20just%20process%20data%20%E2%80%94%20they%20understand%20the%20world.&amp;author=Ghulam%20Mujtaba" width="80%" alt="Quote Card"/>
+<a href="https://www.linkedin.com/in/piyushpathak03/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/piyushpathak03">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=14&amp;duration=4000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+AV+%26+MLOps+collaborations;🚗+Let's+build+intelligent+autonomous+systems+together!" alt="Footer Typing" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20AI%20systems%20are%20not%20just%20technically%20excellent%20%E2%80%94%20they%20create%20measurable%20human%20impact.&author=Piyush%20Pathak" width="80%" alt="Quote Card"/>
 
 </div>
 
@@ -471,5 +398,9 @@ background   : IT · Marketing · Data Science
 
 <!-- ░░ FOOTER BANNER ░░ -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=130&amp;section=footer&amp;animation=fadeIn&amp;fontColor=ffffff"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+GenAI%2C+MLOps+%26+AI+consulting;🚀+Let%27s+build+intelligent+systems+together!" alt="Footer Typing" />
+
 </div>
