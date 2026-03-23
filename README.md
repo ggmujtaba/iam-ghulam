@@ -1,10 +1,6 @@
 <div align="center">
-## Animated Hello [🔝](#--gifs-for-readme--)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:7928ca&height=220&section=header&text=Ghulam%20Mujtaba&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Autonomous%20Driving&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
