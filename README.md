@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00f7ff,100:7928ca&amp;height=200&amp;section=header&amp;text=Ghulam%20Mujtaba&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20Autonomous%20Driving&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:7928ca&height=200&section=header&text=Ghulam%20Mujtaba&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Autonomous%20Driving&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -33,7 +33,7 @@
 class GhulamMujtaba:
     def __init__(self):
         self.role       = "AI/ML Engineer – Autonomous Driving"
-        self.location   = "Braunschweig, Germany 🇩🇪"
+        self.location   = "Braunschweig, Germany"
         self.focus      = [
             "Computer Vision & 3D Perception",
             "Sensor Fusion (Camera · LiDAR · Radar)",
@@ -48,13 +48,7 @@ class GhulamMujtaba:
 
 me = GhulamMujtaba()
 print(me)
-# → Always learning, always shipping 🚀
 ```
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
 
 </td>
 </tr>
