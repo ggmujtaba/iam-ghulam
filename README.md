@@ -29,7 +29,7 @@
 <tr>
 <td valign="top" width="60%">
 
-```python
+<pre><code class="language-python">
 class GhulamMujtaba:
     def __init__(self):
         self.role       = "AI/ML Engineer – Autonomous Driving"
@@ -49,9 +49,10 @@ class GhulamMujtaba:
 me = GhulamMujtaba()
 print(me)
 # → Always learning, always shipping 🚀
-```
+</code></pre>
 
 </td>
+
 <td valign="top" width="40%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
