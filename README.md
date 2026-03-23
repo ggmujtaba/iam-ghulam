@@ -26,8 +26,8 @@
 **AI & ML Engineer — Autonomous Driving**
 📍 Braunschweig, Germany
 
-```python
-class GhulamMujtaba:
+python
+class Ghulam Mujtaba:
     def __init__(self):
         self.role       = "AI/ML Engineer – Autonomous Driving"
         self.location   = "Braunschweig, Germany"
@@ -43,7 +43,6 @@ class GhulamMujtaba:
 
     def contact(self):
         return "mr.ghulaamm@gmail.com"
-```
 
 <br clear="right"/>
 
@@ -119,16 +118,16 @@ class GhulamMujtaba:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=iam-ghulam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ggmujtaba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmujtaba&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iam-ghulam&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ggmujtaba&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ghulam&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggmujtaba&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
