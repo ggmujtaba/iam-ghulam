@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              GHULAM MUJTABA — GITHUB PROFILE                    -->
+<!--              GHULAM MUJTABA — GITHUB PROFILE                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -15,28 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;height=55&amp;lines=🚗+AI+%26+ML+Engineer+%7C+Autonomous+Driving;🧠+Computer+Vision+%7C+Sensor+Fusion+%7C+Deep+Learning;📡+Camera+%7C+LiDAR+%7C+Radar+%7C+3D+Perception;⚙️+Turning+Raw+Sensor+Data+into+Autonomous+Miles;🔬+From+Research+Paper+to+Production+AV+System;🚀+Building+the+Future+of+Mobility" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- ░░ BADGES ROW 1 — Social ░░ -->
-<a href="https://linkedin.com/in/ghulammjtba">
-  <img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Mujtaba-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117"/>
-</a>
-<a href="https://github.com/ggmujtaba">
-  <img src="https://img.shields.io/badge/GitHub-ggmujtaba-white?style=for-the-badge&amp;logo=github&amp;logoColor=black&amp;labelColor=0D1117&amp;color=00f7ff"/>
-</a>
-<a href="https://github.com/ggmujtaba?tab=followers">
-  <img src="https://img.shields.io/github/followers/ggmujtaba?label=Followers&amp;style=for-the-badge&amp;color=00f7ff&amp;labelColor=0D1117&amp;logo=github"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ggmujtaba&amp;color=00f7ff&amp;style=for-the-badge&amp;label=PROFILE+VIEWS&amp;labelColor=0D1117"/>
-
-<br/><br/>
-
-<!-- ░░ BADGES ROW 2 — Other Socials ░░ -->
-<a href="https://instagram.com/iam.ghulam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="https://tiktok.com/@iam.ghulam"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="https://youtube.com/@iam.ghulam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="https://x.com/iam_ghulamm"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="mailto:mr.ghulaamm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/></a>
 
 <br/><br/>
 
@@ -479,19 +457,7 @@ background   : IT · Marketing · Data Science
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ghulammjtba">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="https://github.com/ggmujtaba">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-00f7ff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="mailto:mr.ghulaamm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/>
-</a>
 
-<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;quote=The%20best%20autonomous%20systems%20don't%20just%20process%20data%20%E2%80%94%20they%20understand%20the%20world.&amp;author=Ghulam%20Mujtaba" width="80%" alt="Quote Card"/>
 
