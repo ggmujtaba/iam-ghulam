@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ghulammjtba&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ggmujtaba&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,13 +25,15 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class GhulamMujtaba:
     def __init__(self):
         self.role       = "AI/ML Engineer – Autonomous Driving"
-        self.location   = "Braunschweig, Germany 🇩🇪"
+        self.location   = "Braunschweig, Germany"
         self.focus      = [
             "Computer Vision & 3D Perception",
             "Sensor Fusion (Camera · LiDAR · Radar)",
@@ -43,9 +45,20 @@ class GhulamMujtaba:
 
     def __repr__(self):
         return "Always learning, always shipping 🚀"
+
+me = GhulamMujtaba()
+print(me)
+# → Always learning, always shipping 🚀
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,9 +76,9 @@ class GhulamMujtaba:
 
 ### 🛰️ Autonomous Driving & Robotics
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![CARLA](https://img.shields.io/badge/CARLA_Simulator-0078D4?style=for-the-badge&logo=car&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA_Simulator-0078D4?style=for-the-badge&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Point Cloud](https://img.shields.io/badge/LiDAR_Processing-00F7FF?style=for-the-badge&logoColor=black)
+![LiDAR](https://img.shields.io/badge/LiDAR_Processing-00F7FF?style=for-the-badge&logoColor=black)
 
 ### ☁️ MLOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,16 +110,17 @@ class GhulamMujtaba:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghulammjtba&show_icons=true&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&icon_color=7928ca&text_color=ffffff&hide_border=false&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammjtba&layout=compact&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulammjtba&theme=tokyonight&border=00f7ff&ring=00f7ff&fire=7928ca&currStreakLabel=00f7ff&background=0d1117" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ggmujtaba&show_icons=true&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&icon_color=7928ca&text_color=ffffff&hide_border=false&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmujtaba&layout=compact&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="165"/>
 
 <br/><br/>
 
-[![Ghulam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghulammjtba&bg_color=0d1117&color=00f7ff&line=7928ca&point=ffffff&area=true&hide_border=false&border_color=00f7ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com/?user=ggmujtaba&theme=tokyonight&border=00f7ff&ring=00f7ff&fire=7928ca&currStreakLabel=00f7ff&background=0d1117" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggmujtaba&bg_color=0d1117&color=00f7ff&line=7928ca&point=ffffff&area=true&hide_border=false&border_color=00f7ff" width="95%"/>
 
 </div>
 
@@ -116,7 +130,7 @@ class GhulamMujtaba:
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ghulammjtba&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=ggmujtaba&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false"/>
 
 </div>
 
