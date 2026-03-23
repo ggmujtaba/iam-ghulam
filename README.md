@@ -5,47 +5,47 @@
 <div align="center">
 
 <!-- ░░ ANIMATED HEADER BANNER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Ghulam%20Mujtaba&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚗%20AI%20%26%20ML%20Engineer%20%7C%20Autonomous%20Driving%20%7C%20Computer%20Vision%20%7C%20Sensor%20Fusion&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=280&amp;section=header&amp;text=Ghulam%20Mujtaba&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=🚗%20AI%20%26%20ML%20Engineer%20%7C%20Autonomous%20Driving%20%7C%20Computer%20Vision%20%7C%20Sensor%20Fusion&amp;descAlignY=58&amp;descSize=17&amp;descColor=a0d8ff&amp;stroke=ffffff&amp;strokeWidth=2"/>
 
 <!-- ░░ NEON DIVIDER ░░ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- ░░ TYPING ANIMATION ░░ -->
 <a href="https://github.com/ggmujtaba">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&random=false&width=800&height=55&lines=🚗+AI+%26+ML+Engineer+%7C+Autonomous+Driving;🧠+Computer+Vision+%7C+Sensor+Fusion+%7C+Deep+Learning;📡+Camera+%7C+LiDAR+%7C+Radar+%7C+3D+Perception;⚙️+Turning+Raw+Sensor+Data+into+Autonomous+Miles;🔬+From+Research+Paper+to+Production+AV+System;🚀+Building+the+Future+of+Mobility" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;height=55&amp;lines=🚗+AI+%26+ML+Engineer+%7C+Autonomous+Driving;🧠+Computer+Vision+%7C+Sensor+Fusion+%7C+Deep+Learning;📡+Camera+%7C+LiDAR+%7C+Radar+%7C+3D+Perception;⚙️+Turning+Raw+Sensor+Data+into+Autonomous+Miles;🔬+From+Research+Paper+to+Production+AV+System;🚀+Building+the+Future+of+Mobility" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ░░ BADGES ROW 1 — Social ░░ -->
 <a href="https://linkedin.com/in/ghulammjtba">
-  <img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Mujtaba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Mujtaba-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117"/>
 </a>
 <a href="https://github.com/ggmujtaba">
-  <img src="https://img.shields.io/badge/GitHub-ggmujtaba-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00f7ff"/>
+  <img src="https://img.shields.io/badge/GitHub-ggmujtaba-white?style=for-the-badge&amp;logo=github&amp;logoColor=black&amp;labelColor=0D1117&amp;color=00f7ff"/>
 </a>
 <a href="https://github.com/ggmujtaba?tab=followers">
-  <img src="https://img.shields.io/github/followers/ggmujtaba?label=Followers&style=for-the-badge&color=00f7ff&labelColor=0D1117&logo=github"/>
+  <img src="https://img.shields.io/github/followers/ggmujtaba?label=Followers&amp;style=for-the-badge&amp;color=00f7ff&amp;labelColor=0D1117&amp;logo=github"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ggmujtaba&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=ggmujtaba&amp;color=00f7ff&amp;style=for-the-badge&amp;label=PROFILE+VIEWS&amp;labelColor=0D1117"/>
 
 <br/><br/>
 
 <!-- ░░ BADGES ROW 2 — Other Socials ░░ -->
-<a href="https://instagram.com/iam.ghulam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://tiktok.com/@iam.ghulam"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://youtube.com/@iam.ghulam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://x.com/iam_ghulamm"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:mr.ghulaamm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://instagram.com/iam.ghulam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0D1117"/></a>
+<a href="https://tiktok.com/@iam.ghulam"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white&amp;labelColor=0D1117"/></a>
+<a href="https://youtube.com/@iam.ghulam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117"/></a>
+<a href="https://x.com/iam_ghulamm"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white&amp;labelColor=0D1117"/></a>
+<a href="mailto:mr.ghulaamm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/></a>
 
 <br/><br/>
 
 <!-- ░░ BADGES ROW 3 — Status ░░ -->
-<img src="https://img.shields.io/badge/🔭%20Currently-Building%20AV%20Perception%20Pipelines-00f7ff?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🔭%20Currently-Building%20AV%20Perception%20Pipelines-00f7ff?style=flat-square&amp;labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🌱%20Exploring-BEVFusion%20%26%20Transformer%20Sensor%20Fusion-FF6B6B?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🌱%20Exploring-BEVFusion%20%26%20Transformer%20Sensor%20Fusion-FF6B6B?style=flat-square&amp;labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-LiDAR%20%7C%20Camera%20%7C%20Radar%20Fusion-A78BFA?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-LiDAR%20%7C%20Camera%20%7C%20Radar%20Fusion-A78BFA?style=flat-square&amp;labelColor=0D1117"/>
 
 </div>
 
@@ -163,55 +163,55 @@ print(me.mission())
 
 **🤖 &nbsp;Core AI · ML · Deep Learning**
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21F"/>
-<img src="https://img.shields.io/badge/ONNX-0D1117?style=for-the-badge&logo=onnx&logoColor=005CED"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&amp;logo=pytorch&amp;logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&amp;logo=keras&amp;logoColor=D00000"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&amp;logo=opencv&amp;logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&amp;logo=numpy&amp;logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&amp;logo=pandas&amp;logoColor=150458"/>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21F"/>
+<img src="https://img.shields.io/badge/ONNX-0D1117?style=for-the-badge&amp;logo=onnx&amp;logoColor=005CED"/>
 
 </td></tr>
 <tr><td align="center" colspan="2">
 
 **🚗 &nbsp;Autonomous Driving · Perception · Sensor Fusion**
 
-<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=22314E"/>
-<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/TensorRT-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
-<img src="https://img.shields.io/badge/Point%20Cloud%20Lib-0D1117?style=for-the-badge&logoColor=00f7ff&label=PCL"/>
-<img src="https://img.shields.io/badge/CARLA%20Simulator-0D1117?style=for-the-badge&logoColor=FF6B35&label=CARLA"/>
-<img src="https://img.shields.io/badge/Open3D-0D1117?style=for-the-badge&logoColor=00f7ff&label=Open3D"/>
-<img src="https://img.shields.io/badge/nuScenes-0D1117?style=for-the-badge&logoColor=A78BFA&label=nuScenes"/>
+<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&amp;logo=ros&amp;logoColor=22314E"/>
+<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00599C"/>
+<img src="https://img.shields.io/badge/TensorRT-0D1117?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900"/>
+<img src="https://img.shields.io/badge/Point%20Cloud%20Lib-0D1117?style=for-the-badge&amp;logoColor=00f7ff&amp;label=PCL"/>
+<img src="https://img.shields.io/badge/CARLA%20Simulator-0D1117?style=for-the-badge&amp;logoColor=FF6B35&amp;label=CARLA"/>
+<img src="https://img.shields.io/badge/Open3D-0D1117?style=for-the-badge&amp;logoColor=00f7ff&amp;label=Open3D"/>
+<img src="https://img.shields.io/badge/nuScenes-0D1117?style=for-the-badge&amp;logoColor=A78BFA&amp;label=nuScenes"/>
 
 </td></tr>
 <tr><td align="center" colspan="2">
 
 **📊 &nbsp;Data Science · Visualization · Simulation**
 
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=11557C"/>
-<img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=636EFA"/>
-<img src="https://img.shields.io/badge/Weights_%26_Biases-0D1117?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00"/>
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=4C8CBF"/>
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&amp;logo=jupyter&amp;logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=11557C"/>
+<img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&amp;logo=plotly&amp;logoColor=636EFA"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-0D1117?style=for-the-badge&amp;logo=weightsandbiases&amp;logoColor=FFBE00"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=4C8CBF"/>
 
 </td></tr>
 <tr><td align="center" colspan="2">
 
 **☁️ &nbsp;Cloud · MLOps · DevOps**
 
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&amp;logo=mlflow&amp;logoColor=0194E2"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&amp;logo=fastapi&amp;logoColor=009688"/>
 
 </td></tr>
 </table>
@@ -287,20 +287,20 @@ print(me.mission())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ggmujtaba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=FFFFFF&border_radius=10"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmujtaba&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=FFFFFF&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ggmujtaba&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f7ff&amp;icon_color=00f7ff&amp;text_color=FFFFFF&amp;border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmujtaba&amp;layout=compact&amp;langs_count=10&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f7ff&amp;text_color=FFFFFF&amp;border_radius=10"/>
 
 </div>
 
 <div align="center">
 <br/>
-<img width="70%" src="https://streak-stats.demolab.com/?user=ggmujtaba&theme=tokyonight&hide_border=true&background=0D1117&ring=00f7ff&fire=FF6B6B&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=AAAAAA&border_radius=10"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=ggmujtaba&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00f7ff&amp;fire=FF6B6B&amp;currStreakLabel=00f7ff&amp;sideLabels=00f7ff&amp;dates=AAAAAA&amp;border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ggmujtaba&bg_color=0D1117&color=00f7ff&line=00f7ff&point=FFFFFF&area=true&area_color=003D45&hide_border=true&radius=8" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ggmujtaba&amp;bg_color=0D1117&amp;color=00f7ff&amp;line=00f7ff&amp;point=FFFFFF&amp;area=true&amp;area_color=003D45&amp;hide_border=true&amp;radius=8" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -312,7 +312,7 @@ print(me.mission())
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ggmujtaba&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ggmujtaba&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=7" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -378,19 +378,19 @@ jobs:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/3D-Object%20Detection-00f7ff?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/3D-Object%20Detection-00f7ff?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub>PointNet · VoxelNet · PointPillars</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Multi-Sensor%20Fusion-FF6B6B?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/Multi-Sensor%20Fusion-FF6B6B?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub>Camera · LiDAR · Radar</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/BEV-Transformer%20Fusion-A78BFA?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/BEV-Transformer%20Fusion-A78BFA?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub>BEVFusion · BEVFormer</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Production-MLOps%20AV-FFD700?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/Production-MLOps%20AV-FFD700?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub>Docker · AWS · MLflow</sub>
 </td>
 </tr>
@@ -480,24 +480,24 @@ background   : IT · Marketing · Data Science
 <div align="center">
 
 <a href="https://linkedin.com/in/ghulammjtba">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117"/>
 </a>
 &nbsp;
 <a href="https://github.com/ggmujtaba">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-00f7ff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117"/>
 </a>
 &nbsp;
 <a href="mailto:mr.ghulaamm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20autonomous%20systems%20don't%20just%20process%20data%20%E2%80%94%20they%20understand%20the%20world.&author=Ghulam%20Mujtaba" width="80%" alt="Quote Card"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;quote=The%20best%20autonomous%20systems%20don't%20just%20process%20data%20%E2%80%94%20they%20understand%20the%20world.&amp;author=Ghulam%20Mujtaba" width="80%" alt="Quote Card"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+AV+%26+MLOps+collaborations;🚗+Let's+build+intelligent+autonomous+systems+together!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=14&amp;duration=4000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+AV+%26+MLOps+collaborations;🚗+Let's+build+intelligent+autonomous+systems+together!" alt="Footer Typing" />
 
 </div>
 
@@ -505,5 +505,5 @@ background   : IT · Marketing · Data Science
 
 <!-- ░░ FOOTER BANNER ░░ -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=130&amp;section=footer&amp;animation=fadeIn&amp;fontColor=ffffff"/>
 </div>
