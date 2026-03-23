@@ -104,17 +104,21 @@ class Ghulam Mujtaba:
 
 ---
 
-## 🤝 Let's Connect
+🤝 Let's Connect & Collaborate
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"/>
+I'm open to collaborations, internships, and real-world ML projects! Feel free to reach out — let's build something amazing together 🚀
 
-<p align="center">
-<a href="https://linkedin.com/in/ghulammjtba"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
-<a href="mailto:mr.ghulaamm@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge"/></a>
-</p>
+📩 mr.ghulaamm@gmail.com
 
----
+<br/>
+Bild anzeigen
 
-<div align="center">
+<br/> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+"The road to full autonomy is built one model at a time." 🚗✨
 
+Bild anzeigen
+
+</div>
 🔥 *"From raw sensor data to autonomous intelligence"* 🔥
 
 </div>
