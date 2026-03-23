@@ -1,121 +1,162 @@
-<h1 align="center">
-  Hi there 👋, I'm <b>Ghulam Mujtaba</b>
-</h1>
+<div align="center">
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=iam-ghulam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=Entry-Level+Data+Scientist;Artificial+Intelligence+%7C+Machine+Learning;Turning+Data+into+Real+AI+Solutions;Always+Learning+More+🚀" alt="Typing Animation"/>
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"/>
 
-<!-- Socials right below typing animation -->
-<p align="center">
+<h1>Hi there, I'm <b>Ghulam Mujtaba</b> 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Autonomous+Driving+%F0%9F%9A%97;Computer+Vision+%7C+Sensor+Fusion+%7C+Deep+Learning;Turning+Raw+Sensor+Data+into+Autonomous+Miles+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p>
   <a href="https://linkedin.com/in/ghulammjtba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://tiktok.com/@iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://youtube.com/@iam.ghulam" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://x.com/iam_ghulamm" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:mr.ghulaamm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-**Entry-Level Data Scientist (AI & ML) — Braunschweig, Germany**
-
-📩 Reach me at: **mr.ghulaamm@gmail.com**  
-Open to collaboration, internships, and real-world ML projects.
-
-I'm a motivated Data Science learner with a background in IT & marketing.  
-I love building real ML projects.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
-</p>
+</div>
 
 ---
 
-### 🚀 Currently Working On
-- Building my Data Science portfolio with supervised ML projects  
-- Model evaluation, classification & hyperparameter tuning  
-- First steps into cloud deployment with Docker & AWS
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340"/>
+
+## 🧠 About Me
+
+**AI & ML Engineer — Autonomous Driving**
+📍 Braunschweig, Germany 🇩🇪
+
+```python
+class GhulamMujtaba:
+    def __init__(self):
+        self.role       = "AI/ML Engineer – Autonomous Driving"
+        self.location   = "Braunschweig, Germany 🇩🇪"
+        self.focus      = [
+            "Computer Vision & 3D Perception",
+            "Sensor Fusion (Camera · LiDAR · Radar)",
+            "Deep Learning for AV Systems",
+            "MLOps · Docker · AWS",
+        ]
+        self.background = ["IT", "Marketing", "Data Science"]
+        self.currently  = "Building AV perception projects 🚗"
+        self.open_to    = "Collaborations · Internships · ML Projects"
+
+    def contact(self):
+        return "mr.ghulaamm@gmail.com"
+```
+
+<br clear="right"/>
 
 ---
 
-### 📚 Currently Learning
-- Deep Learning fundamentals  
-- Data visualization (Plotly, Tableau)  
-- Machine learning pipeline best practices
+## 🚀 Currently Working On
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300"/>
+
+- 🛣️ Building an **AV Perception portfolio** with real sensor data
+- 👁️ **Object Detection & Tracking** with YOLOv8 + DeepSORT
+- 🔀 First steps into **Sensor Fusion** — camera + depth estimation
+- 🐳 Deploying ML models with **Docker & AWS**
+- 📊 Model evaluation, classification & **hyperparameter tuning**
+
+<br clear="right"/>
 
 ---
 
-### ✅ Available For
-- Junior Data Science roles  
-- Collaboration on ML projects  
+## 🛰️ Autonomous Driving Stack
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                  AV ENGINEERING STACK                            │
+├──────────────────────────────────────────────────────────────────┤
+│  📡 SENSORS        │  Camera · LiDAR · Radar · GPS · IMU        │
+│  👁️  PERCEPTION     │  2D/3D Detection · Segmentation · BEV      │
+│  🔀 FUSION         │  Multi-Modal Fusion · Depth Estimation      │
+│  🗺️  LOCALIZATION   │  HD Maps · SLAM · Visual Odometry          │
+│  🔮 PREDICTION     │  Trajectory Forecasting · Motion Models     │
+│  🧪 SIMULATION     │  CARLA · nuScenes · Waymo Open Dataset      │
+│  🚀 DEPLOYMENT     │  Docker · AWS · TensorRT · ONNX             │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🤝 Open for Collaboration
-- Beginner-friendly machine learning projects  
-- Data dashboards & visualization  
-- Business analytics for small companies (SEO + social insights)
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages & Core Tools
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" title="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" title="Git"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" title="Docker"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55" title="AWS"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="55" title="Linux"/>
+
+<br/><br/>
+
+### AI / ML / Computer Vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### MLOps & Cloud
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+
+</div>
 
 ---
 
-### 💬 You Can Ask Me About
-- Python for Data Science
-- Machine Learning
-- Artificial Intelligence
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=iam-ghulam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iam-ghulam&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ghulam&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
-### 📫 Contact
-📧 **mr.ghulaamm@gmail.com**  
-🔗 **linkedin.com/in/ghulammjtba**
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"/>
+
+> I'm open to **collaborations**, **internships**, and **real-world ML projects**!
+> Feel free to reach out — let's build something amazing together 🚀
+>
+> 📩 **mr.ghulaamm@gmail.com**
+
+<br/>
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/Ghulam1999)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
 
 ---
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243.svg?logo=matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192.svg?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
+*"The road to full autonomy is built one model at a time."* 🚗✨
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=iam-ghulam&color=00f7ff&style=for-the-badge&label=Profile+Views)
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=iam-ghulam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=iam-ghulam&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ghulam&theme=dark&hide_border=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iam-ghulam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### ⭐ Fun Fact  
-I build practical AI and ML projects that solve real problems.
-
----
-
-### ☕ Buy Me a Coffee
-If you like my work or want to support my learning journey:
-
-[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/Ghulam1999)
+</div>
