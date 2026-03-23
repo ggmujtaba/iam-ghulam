@@ -21,7 +21,7 @@
 ## 🧠 About Me
 
 ```python
-class GhulamMujtaba:
+class Ghulam Mujtaba:
     def __init__(self):
         self.role = "AI/ML Engineer – Autonomous Driving"
         self.location = "Germany"
@@ -79,9 +79,7 @@ class GhulamMujtaba:
 
 ---
 
-## 🚀 Featured Projects (VERY IMPORTANT)
-
-> ⚠️ Recruiter schauen HIER drauf — nicht auf deinen Text
+## 🚀 Featured Projects
 
 ### 🔹 Autonomous Driving Perception System
 - Object Detection + Lane Detection Pipeline
