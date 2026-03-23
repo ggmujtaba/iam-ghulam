@@ -15,10 +15,6 @@
 <a href="https://x.com/iam_ghulamm"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="mailto:mr.ghulaamm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ggmujtaba&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -33,7 +29,7 @@
 class GhulamMujtaba:
     def __init__(self):
         self.role       = "AI/ML Engineer – Autonomous Driving"
-        self.location   = "Braunschweig, Germany 🇩🇪"
+        self.location   = "Braunschweig, Germany"
         self.focus      = [
             "Computer Vision & 3D Perception",
             "Sensor Fusion (Camera · LiDAR · Radar)",
@@ -53,14 +49,14 @@ print(me)
 
 </td>
 
-<td valign="top" width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
 
 </td>
 </tr>
 </table>
+<td valign="top" width="40%" align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
 ---
 
 ## 🚀 Tech Stack & Tools
