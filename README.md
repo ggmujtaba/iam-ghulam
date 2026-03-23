@@ -24,21 +24,21 @@
 ## 🧠 About Me
 
 **AI & ML Engineer — Autonomous Driving**
-📍 Braunschweig, Germany 🇩🇪
+📍 Braunschweig, Germany
 
 ```python
 class GhulamMujtaba:
     def __init__(self):
         self.role       = "AI/ML Engineer – Autonomous Driving"
-        self.location   = "Braunschweig, Germany 🇩🇪"
+        self.location   = "Braunschweig, Germany"
         self.focus      = [
             "Computer Vision & 3D Perception",
             "Sensor Fusion (Camera · LiDAR · Radar)",
             "Deep Learning for AV Systems",
             "MLOps · Docker · AWS",
         ]
-        self.background = ["IT", "Marketing", "Data Science"]
-        self.currently  = "Building AV perception projects 🚗"
+        self.background = ["Software Engineer", "Marketing", "Data Science"]
+        self.currently  = "Building AV perception projects"
         self.open_to    = "Collaborations · Internships · ML Projects"
 
     def contact(self):
@@ -69,10 +69,10 @@ class GhulamMujtaba:
 ┌──────────────────────────────────────────────────────────────────┐
 │                  AV ENGINEERING STACK                            │
 ├──────────────────────────────────────────────────────────────────┤
-│  📡 SENSORS        │  Camera · LiDAR · Radar · GPS · IMU        │
-│  👁️  PERCEPTION     │  2D/3D Detection · Segmentation · BEV      │
+│  📡 SENSORS        │  Camera · LiDAR · Radar · GPS · IMU         │
+│  👁️  PERCEPTION    │  2D/3D Detection · Segmentation · BEV       │
 │  🔀 FUSION         │  Multi-Modal Fusion · Depth Estimation      │
-│  🗺️  LOCALIZATION   │  HD Maps · SLAM · Visual Odometry          │
+│  🗺️  LOCALIZATION  │  HD Maps · SLAM · Visual Odometry           │
 │  🔮 PREDICTION     │  Trajectory Forecasting · Motion Models     │
 │  🧪 SIMULATION     │  CARLA · nuScenes · Waymo Open Dataset      │
 │  🚀 DEPLOYMENT     │  Docker · AWS · TensorRT · ONNX             │
